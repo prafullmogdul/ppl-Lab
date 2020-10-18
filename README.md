@@ -1,2 +1,2 @@
-# ppl-lab
+# ppl-Lab
 Assignments of PPL (practical)
